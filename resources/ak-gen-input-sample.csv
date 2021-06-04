@@ -1,0 +1,25 @@
+hyper,i,<up>,TRUE
+hyper,j,<left>,TRUE
+hyper,k,<down>,TRUE
+hyper,l,<right>,TRUE
+hyper,u,<backspace>,TRUE
+hyper,o,<delete>,TRUE
+hyper,y,<page_up>,TRUE
+hyper,n,<page_down>,TRUE
+hyper,h,<home>,TRUE
+hyper,;,<end>,TRUE
+hyper,:,<insert>,TRUE
+hyper, ,<enter>,TRUE
+hyper,p,<print_screen>,TRUE
+hyper,1,<f1>,TRUE
+hyper,2,<f2>,TRUE
+hyper,3,<f3>,TRUE
+hyper,4,<f4>,TRUE
+hyper,5,<f5>,TRUE
+hyper,6,<f6>,TRUE
+hyper,7,<f7>,TRUE
+hyper,8,<f8>,TRUE
+hyper,9,<f9>,TRUE
+hyper,0,<f10>,TRUE
+hyper,-,<f11>,TRUE
+hyper,^,<f12>,TRUE
